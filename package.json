@@ -1,0 +1,26 @@
+{
+	"name": "scss-boiler-plate",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "A.Fedorovich",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.24.4",
+		"eslint": "^5.9.0",
+		"gulp": "^3.9.1",
+		"gulp-autoprefixer": "^5.0.0",
+		"gulp-clean-css": "^4.0.0",
+		"gulp-concat": "^2.6.1",
+		"gulp-imagemin": "^4.1.0",
+		"gulp-minify": "^3.1.0",
+		"gulp-postcss": "^8.0.0",
+		"gulp-sass": "^4.0.1",
+		"postcss-reporter": "^6.0.0",
+		"postcss-scss": "^2.0.0"
+	},
+	"dependencies": {}
+}
